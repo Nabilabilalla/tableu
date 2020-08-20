@@ -15,16 +15,10 @@ td /* Toutes les cellules des tableaux... */
     padding: 1%;
 
 }
-tr
-{
-    border: 1px solid;
-
-}
 th
 {
     border: 1px solid black;
 
-    
 }
 
 td:nth-child(1)
